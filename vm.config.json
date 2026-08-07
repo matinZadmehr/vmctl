@@ -1,20 +1,9 @@
 {
-  "defaultVM": "ubuntu2gig",
-
-  "puttyPath": "C:\\Program Files\\PuTTY\\putty.exe",
-
-  "vms": {
-
-    "ubuntu2gig": {
-
-      "username": "matin",
-
-      "ip": "192.168.31.226",
-
-      "sshPort": 22
-
+    "vms": {
+        "n8n": {
+            "username": "matin",
+            "ip": "192.168.31.226",
+            "sshPort": 22
+        }
     }
-
-  }
-
 }
